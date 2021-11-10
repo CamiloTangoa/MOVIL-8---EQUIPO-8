@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="133dp"
+        android:layout_height="249dp"
+        android:text="@string/la_sangre_fluye_mejor_con_la_donacipon_la_sangre_fluye_de_manera_menos_perjudicial_para_el_revestimiento_de_los_vasos_sanguineos_esto_significa_menor_bloqueo_arterial_y_menor_riesgo_a_sufrir_un_ataque_al_coraz_n_y_accidentes_cerebrovasculares"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.287"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.67" />
+
+    <Button
+        android:id="@+id/BtnIncribirme"
+        style="@android:style/Widget.Holo.Light.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@android:color/darker_gray"
+        android:text="@string/inscribirme"
+        android:textColor="@color/white"
+        app:icon="@android:color/holo_blue_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/DonarC"
+        app:layout_constraintVertical_bias="0.937" />
+
+    <ImageView
+        android:id="@+id/Gota"
+        android:layout_width="78dp"
+        android:layout_height="106dp"
+        android:background="@drawable/gota_sangre"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.741"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/DonarC"
+        app:layout_constraintVertical_bias="0.601"
+        tools:ignore="ImageContrastCheck"
+        tools:srcCompat="@drawable/gota_sangre" />
+
+    <ImageView
+        android:id="@+id/DonarC"
+        android:layout_width="410dp"
+        android:layout_height="234dp"
+        android:background="@drawable/donar_app_inicio"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:srcCompat="@drawable/donar_app_inicio" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Donar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_inscription">inscription</string>
+    <string name="title_activity_requirements">Requirements</string>
+    <string name="inscribirme">Inscribirme</string>
+    <string name="la_sangre_fluye_mejor_con_la_donacipon_la_sangre_fluye_de_manera_menos_perjudicial_para_el_revestimiento_de_los_vasos_sanguineos_esto_significa_menor_bloqueo_arterial_y_menor_riesgo_a_sufrir_un_ataque_al_coraz_n_y_accidentes_cerebrovasculares">La sangre fluye mejor con la donacipon, la sangre fluye de manera menos perjudicial para el revestimiento de los vasos sanguineos . Esto significa menor bloqueo arterial y menor riesgo a sufrir un ataque al corazón y accidentes cerebrovasculares.</string>
+    <string name="todo">TODO</string>
+    <string name="documento_de_identidad">Documento de identidad</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="hint">hint</string>
+    <string name="edad">Edad</string>
+    <string name="_00000000">00000000</string>
+    <string name="title_activity_delete">delete</string>
+
+
+</resources>

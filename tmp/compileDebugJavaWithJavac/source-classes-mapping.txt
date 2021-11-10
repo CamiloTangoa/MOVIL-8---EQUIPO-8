@@ -1,0 +1,40 @@
+com/example/helloword/BuildConfig.java
+ com.example.helloword.BuildConfig
+com/example/helloword/databinding/FragmentSecond2Binding.java
+ com.example.helloword.databinding.FragmentSecond2Binding
+com/example/helloword/SecondFragment.java
+ com.example.helloword.SecondFragment
+ com.example.helloword.SecondFragment$1
+com/example/helloword/databinding/ActivityRequirementsBinding.java
+ com.example.helloword.databinding.ActivityRequirementsBinding
+com/example/helloword/databinding/ActivityIncripcionBinding.java
+ com.example.helloword.databinding.ActivityIncripcionBinding
+com/example/helloword/databinding/FragmentSecondBinding.java
+ com.example.helloword.databinding.FragmentSecondBinding
+com/example/helloword/FirstFragment.java
+ com.example.helloword.FirstFragment
+ com.example.helloword.FirstFragment$1
+com/example/helloword/First2Fragment.java
+ com.example.helloword.First2Fragment
+ com.example.helloword.First2Fragment$1
+com/example/helloword/databinding/ContentRequirementsBinding.java
+ com.example.helloword.databinding.ContentRequirementsBinding
+com/example/helloword/Requirements.java
+ com.example.helloword.Requirements
+ com.example.helloword.Requirements$1
+com/example/helloword/databinding/ActivityMainBinding.java
+ com.example.helloword.databinding.ActivityMainBinding
+com/example/helloword/MainActivity.java
+ com.example.helloword.MainActivity
+com/example/helloword/databinding/ContentIncripcionBinding.java
+ com.example.helloword.databinding.ContentIncripcionBinding
+com/example/helloword/databinding/FragmentFirst2Binding.java
+ com.example.helloword.databinding.FragmentFirst2Binding
+com/example/helloword/databinding/FragmentFirstBinding.java
+ com.example.helloword.databinding.FragmentFirstBinding
+com/example/helloword/Second2Fragment.java
+ com.example.helloword.Second2Fragment
+ com.example.helloword.Second2Fragment$1
+com/example/helloword/inscription.java
+ com.example.helloword.inscription
+ com.example.helloword.inscription$1
